@@ -1,1 +1,1 @@
-# Visualizing-the-distribution-of-high-dimensional-data
+# 高次元サンプルの分布を二次元図上で可視化
